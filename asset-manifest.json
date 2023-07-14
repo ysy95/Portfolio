@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f7a18884.css",
+    "main.js": "./static/js/main.77fec25c.js",
+    "static/media/yanolja.png": "./static/media/yanolja.105c6d7c21186eb15f4d.png",
+    "static/media/website02.png": "./static/media/website02.77e84b84a3b4c9619a7a.png",
+    "static/media/bg.jpg": "./static/media/bg.beeecebf905dd88a02e0.jpg",
+    "static/media/website01.png": "./static/media/website01.b9cca672a48f8329b386.png",
+    "static/media/casper.png": "./static/media/casper.c503d0340a31a4ca5732.png",
+    "static/media/logo.jpg": "./static/media/logo.a36b6edb845801a8ff57.jpg",
+    "static/media/my2.png": "./static/media/my2.17b735dbd7b2600139a2.png",
+    "static/media/netmarble.png": "./static/media/netmarble.d283797b13508cbc85d8.png",
+    "static/media/ofd_admin.png": "./static/media/ofd_admin.d7cd9701b060a3d21f3f.png",
+    "static/media/disney.png": "./static/media/disney.507e00bb12482c97af25.png",
+    "static/media/main.png": "./static/media/main.4055360fb1ae54825621.png",
+    "static/media/me.png": "./static/media/me.91ef5a0b9874bf60ff55.png",
+    "static/media/ofd_user.png": "./static/media/ofd_user.5a4fb3f177cd3b49e993.png",
+    "index.html": "./index.html",
+    "main.f7a18884.css.map": "./static/css/main.f7a18884.css.map",
+    "main.77fec25c.js.map": "./static/js/main.77fec25c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a18884.css",
+    "static/js/main.77fec25c.js"
+  ]
+}
